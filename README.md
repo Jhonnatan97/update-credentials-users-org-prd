@@ -1,0 +1,1 @@
+O objetivo desse script é atualizar usuários na organização
